@@ -31,3 +31,7 @@ svg,.selected-container{
         .selected-element:hover{
         background-color: #f0f0f0;
         }
+
+html{
+    background-color: rgb(157, 70, 70);
+}
